@@ -2,7 +2,6 @@ import 'package:bloc/bloc.dart';
 import 'package:equatable/equatable.dart';
 import 'package:kortoba_flutter_task/src/core/resources/data_state.dart';
 import 'package:kortoba_flutter_task/src/domain/entities/product.dart';
-import 'package:kortoba_flutter_task/src/domain/entities/story.dart';
 import 'package:kortoba_flutter_task/src/domain/repositories/products_repository.dart';
 
 part 'products_state.dart';

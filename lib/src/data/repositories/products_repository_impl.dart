@@ -5,9 +5,7 @@ import 'package:kortoba_flutter_task/src/core/resources/data_state.dart';
 import 'package:kortoba_flutter_task/src/data/data_sources/local/local_data_source.dart';
 import 'package:kortoba_flutter_task/src/data/data_sources/remote/api_services.dart';
 import 'package:kortoba_flutter_task/src/data/models/product_model.dart';
-import 'package:kortoba_flutter_task/src/domain/entities/comment.dart';
 import 'package:kortoba_flutter_task/src/domain/entities/product.dart';
-import 'package:kortoba_flutter_task/src/domain/entities/story.dart';
 import 'package:kortoba_flutter_task/src/domain/repositories/products_repository.dart';
 
 
