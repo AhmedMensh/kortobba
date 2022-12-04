@@ -1,0 +1,20 @@
+{
+  "app_name": "Kortoba",
+  "login": "تسجيل الدخول",
+  "enter": "الدخول",
+  "user_name": "اسم المستخدم",
+  "password": "كلمة السر",
+  "home": "الرئيسية",
+  "favorites": "المفضلة",
+  "please_login_to_complete_the_purchase": "من فضلك قم بالدخول لإتمام الشراء",
+  "add_to_cart": "نقل إلى سلة التسوق",
+  "l_e": "ج.م",
+  "favorites_list_empty": "قائمه المفضله فارغه",
+  "recently_arrived": "وصل حديثا",
+  "no_data_available": "لا تتوافر بيانات",
+  "field_required": "هذا الحقل مطلوب"
+
+
+
+
+}
